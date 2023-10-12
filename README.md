@@ -1,3 +1,3 @@
 <div align="center">
-  <p> Signed Verification </>
+  <p> Signed Verification and PR </>
 </div>
